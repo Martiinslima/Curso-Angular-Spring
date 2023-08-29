@@ -1,4 +1,4 @@
-## PT-BR
+### PT-BR
 
 # CrudAngular
 
@@ -28,7 +28,7 @@ Execute `ng e2e` para executar os testes ponta a ponta através de uma plataform
 
 Para obter mais ajuda sobre o Angular CLI, use `ng help` ou confira a página [Visão geral do Angular CLI e referência de comandos](https://angular.io/cli).
 
-
+### EN-US
 # CrudAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
